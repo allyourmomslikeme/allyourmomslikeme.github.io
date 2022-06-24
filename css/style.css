@@ -1,0 +1,42 @@
+.lw { font-size: 60px; }
+#titre_principal{
+  text-align: center;
+  text-decoration: underline;
+  
+}
+.paragraphe_Conor{
+  
+}
+
+  
+
+#Salaire{
+  font-weight: bolder;
+  color: green;
+  
+}
+#mess1{
+  height: 25%;
+  width: 25%;
+}
+#Ronaldouille{
+  height: 25%;
+  width: 25%;
+ 
+}
+#Chiffres{
+  list-style-type: decimale;
+}
+#container{
+  display: flex;
+  flex-direction: row;
+  
+}
+.cell{
+  width: 25%;
+ 
+  margin: 10px;
+}
+#Police{
+  font-size: 125%;
+}
